@@ -1,0 +1,2045 @@
+{
+  "Rev_1": [
+    {
+      "timestamp": "2025-07-29T15:49:30.953",
+      "Roll": 0.0,
+      "Pitch": -0.02,
+      "Yaw": -0.49,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:31.133",
+      "Roll": 0.0,
+      "Pitch": 0.34,
+      "Yaw": 27.63,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:31.193",
+      "Roll": 0.0,
+      "Pitch": 0.42,
+      "Yaw": -2.09,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:31.252",
+      "Roll": 0.0,
+      "Pitch": 0.06,
+      "Yaw": 5.16,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:31.372",
+      "Roll": 0.0,
+      "Pitch": 0.36,
+      "Yaw": 29.26,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:31.493",
+      "Roll": 0.0,
+      "Pitch": 0.02,
+      "Yaw": 36.0,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:31.555",
+      "Roll": 0.0,
+      "Pitch": -0.05,
+      "Yaw": -29.64,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:31.732",
+      "Roll": 0.0,
+      "Pitch": -0.08,
+      "Yaw": -13.95,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:31.792",
+      "Roll": 0.0,
+      "Pitch": -0.09,
+      "Yaw": 5.81,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:31.854",
+      "Roll": 0.0,
+      "Pitch": 0.29,
+      "Yaw": -9.04,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:31.971",
+      "Roll": 0.0,
+      "Pitch": 0.38,
+      "Yaw": 10.07,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.151",
+      "Roll": 0.0,
+      "Pitch": 0.42,
+      "Yaw": -3.15,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.154",
+      "Roll": 0.0,
+      "Pitch": 0.08,
+      "Yaw": 13.31,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.273",
+      "Roll": 0.0,
+      "Pitch": 0.36,
+      "Yaw": 6.26,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.335",
+      "Roll": 0.0,
+      "Pitch": 0.42,
+      "Yaw": 23.64,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.454",
+      "Roll": 0.0,
+      "Pitch": 0.45,
+      "Yaw": 14.49,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.572",
+      "Roll": 0.0,
+      "Pitch": 0.06,
+      "Yaw": 8.76,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.692",
+      "Roll": 0.0,
+      "Pitch": -0.04,
+      "Yaw": 19.79,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.753",
+      "Roll": 0.0,
+      "Pitch": -0.07,
+      "Yaw": -34.23,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.873",
+      "Roll": 0.0,
+      "Pitch": -0.09,
+      "Yaw": -15.23,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.993",
+      "Roll": 0.0,
+      "Pitch": -0.11,
+      "Yaw": -26.67,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.052",
+      "Roll": 0.0,
+      "Pitch": 0.14,
+      "Yaw": -4.68,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.173",
+      "Roll": 0.0,
+      "Pitch": 0.26,
+      "Yaw": -3.9,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.232",
+      "Roll": 0.0,
+      "Pitch": 0.02,
+      "Yaw": 7.02,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.352",
+      "Roll": 0.0,
+      "Pitch": -0.05,
+      "Yaw": -17.7,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.532",
+      "Roll": 0.0,
+      "Pitch": -0.08,
+      "Yaw": -16.7,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.535",
+      "Roll": 0.0,
+      "Pitch": -0.1,
+      "Yaw": -21.0,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.654",
+      "Roll": 0.0,
+      "Pitch": 0.27,
+      "Yaw": 2.28,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.773",
+      "Roll": 0.0,
+      "Pitch": 0.36,
+      "Yaw": 6.82,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.832",
+      "Roll": 0.0,
+      "Pitch": 0.05,
+      "Yaw": -23.72,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.952",
+      "Roll": 0.0,
+      "Pitch": -0.04,
+      "Yaw": 21.59,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.014",
+      "Roll": 0.0,
+      "Pitch": -0.07,
+      "Yaw": 28.54,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.135",
+      "Roll": 0.0,
+      "Pitch": 0.3,
+      "Yaw": 36.1,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.252",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": 10.39,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.312",
+      "Roll": 0.0,
+      "Pitch": -0.06,
+      "Yaw": -16.64,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.432",
+      "Roll": 0.0,
+      "Pitch": -0.08,
+      "Yaw": -24.25,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.551",
+      "Roll": 0.0,
+      "Pitch": 0.3,
+      "Yaw": 4.85,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.672",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -4.52,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.732",
+      "Roll": 0.0,
+      "Pitch": -0.05,
+      "Yaw": 10.51,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.852",
+      "Roll": 0.0,
+      "Pitch": -0.08,
+      "Yaw": -11.39,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.912",
+      "Roll": 0.0,
+      "Pitch": -0.09,
+      "Yaw": -27.17,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.035",
+      "Roll": 0.0,
+      "Pitch": -0.09,
+      "Yaw": 20.49,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.155",
+      "Roll": 0.0,
+      "Pitch": -0.1,
+      "Yaw": 13.64,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.212",
+      "Roll": 0.0,
+      "Pitch": 0.16,
+      "Yaw": 31.99,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.332",
+      "Roll": 0.0,
+      "Pitch": -0.02,
+      "Yaw": 3.08,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.392",
+      "Roll": 0.0,
+      "Pitch": -0.06,
+      "Yaw": 3.7,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.513",
+      "Roll": 0.0,
+      "Pitch": -0.08,
+      "Yaw": 28.96,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.572",
+      "Roll": 0.0,
+      "Pitch": -0.09,
+      "Yaw": 2.18,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.692",
+      "Roll": 0.0,
+      "Pitch": -0.09,
+      "Yaw": 8.78,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.815",
+      "Roll": 0.0,
+      "Pitch": 0.17,
+      "Yaw": 0.43,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.934",
+      "Roll": 0.0,
+      "Pitch": -0.01,
+      "Yaw": -5.67,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.991",
+      "Roll": 0.0,
+      "Pitch": 0.34,
+      "Yaw": 6.44,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.112",
+      "Roll": 0.0,
+      "Pitch": 0.42,
+      "Yaw": 9.76,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.232",
+      "Roll": 0.0,
+      "Pitch": 0.06,
+      "Yaw": 30.7,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.293",
+      "Roll": 0.0,
+      "Pitch": -0.03,
+      "Yaw": 30.34,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.411",
+      "Roll": 0.0,
+      "Pitch": -0.07,
+      "Yaw": 2.63,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.533",
+      "Roll": 0.0,
+      "Pitch": -0.08,
+      "Yaw": 28.72,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.593",
+      "Roll": 0.0,
+      "Pitch": -0.09,
+      "Yaw": -6.55,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.713",
+      "Roll": 0.0,
+      "Pitch": -0.09,
+      "Yaw": 26.23,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.773",
+      "Roll": 0.0,
+      "Pitch": -0.1,
+      "Yaw": 7.3,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.951",
+      "Roll": 0.0,
+      "Pitch": -0.1,
+      "Yaw": -14.3,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.011",
+      "Roll": 0.0,
+      "Pitch": -0.1,
+      "Yaw": 19.62,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.075",
+      "Roll": 0.0,
+      "Pitch": -0.1,
+      "Yaw": 13.23,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.193",
+      "Roll": 0.0,
+      "Pitch": 0.15,
+      "Yaw": -10.63,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.252",
+      "Roll": 0.0,
+      "Pitch": 0.28,
+      "Yaw": 24.97,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.372",
+      "Roll": 0.0,
+      "Pitch": 0.03,
+      "Yaw": 34.65,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.492",
+      "Roll": 0.0,
+      "Pitch": 0.35,
+      "Yaw": -1.0,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.611",
+      "Roll": 0.0,
+      "Pitch": 0.02,
+      "Yaw": 0.01,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.674",
+      "Roll": 0.0,
+      "Pitch": -0.04,
+      "Yaw": 2.45,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.795",
+      "Roll": 0.0,
+      "Pitch": -0.07,
+      "Yaw": 5.27,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.915",
+      "Roll": 0.0,
+      "Pitch": 0.3,
+      "Yaw": -15.01,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.975",
+      "Roll": 0.0,
+      "Pitch": 0.4,
+      "Yaw": -18.53,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.152",
+      "Roll": 0.0,
+      "Pitch": 0.44,
+      "Yaw": -4.99,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.157",
+      "Roll": 0.0,
+      "Pitch": 0.46,
+      "Yaw": 26.47,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.392",
+      "Roll": 0.0,
+      "Pitch": 0.48,
+      "Yaw": 12.89,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.394",
+      "Roll": 0.0,
+      "Pitch": 0.24,
+      "Yaw": -12.71,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.453",
+      "Roll": 0.0,
+      "Pitch": 0.39,
+      "Yaw": -0.88,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.633",
+      "Roll": 0.0,
+      "Pitch": 0.03,
+      "Yaw": 27.57,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.691",
+      "Roll": 0.0,
+      "Pitch": -0.05,
+      "Yaw": -4.36,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.753",
+      "Roll": 0.0,
+      "Pitch": 0.31,
+      "Yaw": -6.93,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.874",
+      "Roll": 0.0,
+      "Pitch": 0.4,
+      "Yaw": -7.87,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.992",
+      "Roll": 0.0,
+      "Pitch": 0.44,
+      "Yaw": -8.06,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.115",
+      "Roll": 0.0,
+      "Pitch": 0.06,
+      "Yaw": 25.7,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.173",
+      "Roll": 0.0,
+      "Pitch": -0.03,
+      "Yaw": 9.7,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.232",
+      "Roll": 0.0,
+      "Pitch": -0.07,
+      "Yaw": 20.23,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.354",
+      "Roll": 0.0,
+      "Pitch": -0.08,
+      "Yaw": 22.94,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.471",
+      "Roll": 0.0,
+      "Pitch": -0.1,
+      "Yaw": -5.59,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.534",
+      "Roll": 0.0,
+      "Pitch": -0.11,
+      "Yaw": 20.33,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.652",
+      "Roll": 0.0,
+      "Pitch": -0.11,
+      "Yaw": 11.58,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.773",
+      "Roll": 0.0,
+      "Pitch": -0.12,
+      "Yaw": -7.36,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.892",
+      "Roll": 0.0,
+      "Pitch": -0.12,
+      "Yaw": -3.16,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.951",
+      "Roll": 0.0,
+      "Pitch": 0.13,
+      "Yaw": -15.33,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.071",
+      "Roll": 0.0,
+      "Pitch": -0.03,
+      "Yaw": 3.74,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.132",
+      "Roll": 0.0,
+      "Pitch": 0.34,
+      "Yaw": 5.63,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.252",
+      "Roll": 0.0,
+      "Pitch": 0.41,
+      "Yaw": -4.25,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.371",
+      "Roll": 0.0,
+      "Pitch": 0.05,
+      "Yaw": -7.0,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.433",
+      "Roll": 0.0,
+      "Pitch": -0.03,
+      "Yaw": 15.44,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.551",
+      "Roll": 0.0,
+      "Pitch": -0.07,
+      "Yaw": 32.17,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.672",
+      "Roll": 0.0,
+      "Pitch": -0.08,
+      "Yaw": -10.74,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.731",
+      "Roll": 0.0,
+      "Pitch": -0.09,
+      "Yaw": -17.17,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.851",
+      "Roll": 0.0,
+      "Pitch": -0.1,
+      "Yaw": -22.17,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.912",
+      "Roll": 0.0,
+      "Pitch": -0.1,
+      "Yaw": 1.84,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.032",
+      "Roll": 0.0,
+      "Pitch": -0.1,
+      "Yaw": 14.57,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.153",
+      "Roll": 0.0,
+      "Pitch": -0.11,
+      "Yaw": 32.06,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.271",
+      "Roll": 0.0,
+      "Pitch": 0.14,
+      "Yaw": 18.88,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.331",
+      "Roll": 0.0,
+      "Pitch": -0.02,
+      "Yaw": -12.48,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.511",
+      "Roll": 0.0,
+      "Pitch": -0.06,
+      "Yaw": -13.16,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.573",
+      "Roll": 0.0,
+      "Pitch": 0.31,
+      "Yaw": 24.21,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.632",
+      "Roll": 0.0,
+      "Pitch": 0.4,
+      "Yaw": 19.14,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.752",
+      "Roll": 0.0,
+      "Pitch": 0.05,
+      "Yaw": 19.53,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.812",
+      "Roll": 0.0,
+      "Pitch": -0.03,
+      "Yaw": -14.29,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.932",
+      "Roll": 0.0,
+      "Pitch": -0.07,
+      "Yaw": 4.1,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.052",
+      "Roll": 0.0,
+      "Pitch": -0.08,
+      "Yaw": -0.1,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.113",
+      "Roll": 0.0,
+      "Pitch": -0.09,
+      "Yaw": -11.94,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.235",
+      "Roll": 0.0,
+      "Pitch": -0.09,
+      "Yaw": -3.04,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.352",
+      "Roll": 0.0,
+      "Pitch": 0.15,
+      "Yaw": -6.74,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.414",
+      "Roll": 0.0,
+      "Pitch": -0.02,
+      "Yaw": -27.61,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.531",
+      "Roll": 0.0,
+      "Pitch": -0.06,
+      "Yaw": -19.53,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.593",
+      "Roll": 0.0,
+      "Pitch": -0.08,
+      "Yaw": -25.12,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.713",
+      "Roll": 0.0,
+      "Pitch": 0.3,
+      "Yaw": -26.53,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.832",
+      "Roll": 0.0,
+      "Pitch": 0.4,
+      "Yaw": -13.09,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.891",
+      "Roll": 0.0,
+      "Pitch": 0.44,
+      "Yaw": -23.2,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.012",
+      "Roll": 0.0,
+      "Pitch": 0.46,
+      "Yaw": 21.75,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.134",
+      "Roll": 0.0,
+      "Pitch": 0.1,
+      "Yaw": 23.5,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.193",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.99,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.372",
+      "Roll": 0.0,
+      "Pitch": -0.03,
+      "Yaw": 8.51,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.375",
+      "Roll": 0.0,
+      "Pitch": -0.06,
+      "Yaw": -3.4,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.552",
+      "Roll": 0.0,
+      "Pitch": 0.27,
+      "Yaw": 12.19,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.612",
+      "Roll": 0.0,
+      "Pitch": 0.36,
+      "Yaw": 6.1,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.672",
+      "Roll": 0.0,
+      "Pitch": 0.05,
+      "Yaw": 9.88,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.793",
+      "Roll": 0.0,
+      "Pitch": 0.35,
+      "Yaw": -3.0,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.911",
+      "Roll": 0.0,
+      "Pitch": 0.42,
+      "Yaw": -0.42,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.971",
+      "Roll": 0.0,
+      "Pitch": 0.05,
+      "Yaw": 14.06,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.095",
+      "Roll": 0.0,
+      "Pitch": -0.04,
+      "Yaw": -7.97,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.212",
+      "Roll": 0.0,
+      "Pitch": -0.07,
+      "Yaw": -11.76,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.331",
+      "Roll": 0.0,
+      "Pitch": 0.3,
+      "Yaw": -27.41,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.392",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -21.8,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.573",
+      "Roll": 0.0,
+      "Pitch": -0.06,
+      "Yaw": 21.98,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.631",
+      "Roll": 0.0,
+      "Pitch": 0.31,
+      "Yaw": -10.22,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.693",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 9.1,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.812",
+      "Roll": 0.0,
+      "Pitch": -0.05,
+      "Yaw": -17.13,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.872",
+      "Roll": 0.0,
+      "Pitch": -0.08,
+      "Yaw": 0.22,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.993",
+      "Roll": 0.0,
+      "Pitch": -0.09,
+      "Yaw": 5.72,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.114",
+      "Roll": 0.0,
+      "Pitch": -0.1,
+      "Yaw": -17.9,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.174",
+      "Roll": 0.0,
+      "Pitch": -0.1,
+      "Yaw": -15.33,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.294",
+      "Roll": 0.0,
+      "Pitch": 0.16,
+      "Yaw": -16.09,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.354",
+      "Roll": 0.0,
+      "Pitch": -0.02,
+      "Yaw": 7.31,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.471",
+      "Roll": 0.0,
+      "Pitch": -0.06,
+      "Yaw": 30.12,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.593",
+      "Roll": 0.0,
+      "Pitch": 0.31,
+      "Yaw": 28.02,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.653",
+      "Roll": 0.0,
+      "Pitch": 0.41,
+      "Yaw": -11.66,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.773",
+      "Roll": 0.0,
+      "Pitch": 0.45,
+      "Yaw": 12.98,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.892",
+      "Roll": 0.0,
+      "Pitch": 0.07,
+      "Yaw": 31.52,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:46.012",
+      "Roll": 0.0,
+      "Pitch": -0.03,
+      "Yaw": 36.83,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:46.073",
+      "Roll": 0.0,
+      "Pitch": -0.06,
+      "Yaw": 4.51,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:46.191",
+      "Roll": 0.0,
+      "Pitch": 0.29,
+      "Yaw": 4.06,
+      "filter_type": "running_optimized"
+    }
+  ],
+  "Rev_2": [
+    {
+      "timestamp": "2025-07-29T15:49:32.540",
+      "Roll": -0.0,
+      "Pitch": -0.0,
+      "Yaw": 1.44,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.659",
+      "Roll": -0.0,
+      "Pitch": -0.0,
+      "Yaw": 1.66,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.779",
+      "Roll": -0.0,
+      "Pitch": -0.0,
+      "Yaw": -0.92,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.838",
+      "Roll": 0.0,
+      "Pitch": -0.0,
+      "Yaw": -0.31,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:32.959",
+      "Roll": 0.0,
+      "Pitch": -0.0,
+      "Yaw": -0.16,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.082",
+      "Roll": 0.0,
+      "Pitch": -0.0,
+      "Yaw": 2.78,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.139",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": 1.89,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.318",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -0.66,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.381",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -1.18,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.440",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -1.53,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.558",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -1.82,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.680",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -2.09,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.798",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -0.66,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.861",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -0.1,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:33.980",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -1.22,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.099",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -4.61,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.158",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -2.46,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.281",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -0.94,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.398",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -0.32,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.460",
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "Yaw": -1.27,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.580",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.73,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.701",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.91,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.759",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.75,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:34.879",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 1.07,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.058",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 2.97,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.061",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.76,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.179",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.97,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.300",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.46,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.420",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.8,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.479",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.5,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.600",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -3.11,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.719",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 1.74,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.780",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.4,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:35.900",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.51,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.020",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.07,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.140",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.05,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.201",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.41,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.320",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.39,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.439",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 2.12,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.501",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.82,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.617",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.33,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.679",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.17,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.798",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.15,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:36.978",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.51,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.039",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 2.25,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.099",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.63,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.221",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.35,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.338",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.03,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.399",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.08,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.518",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.11,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.638",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.23,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.699",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.04,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.818",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.36,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:37.998",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -2.22,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.058",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.85,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.119",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.29,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.177",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.31,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.299",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.12,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.418",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.09,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.539",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.12,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.598",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.04,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.718",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.4,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.898",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.4,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:38.900",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 1.29,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.018",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.26,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.139",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.16,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.198",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -2.43,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.318",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.76,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.438",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.31,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.560",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.34,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.620",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -2.56,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.740",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.48,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.859",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.54,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:39.918",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 2.24,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.038",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.36,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.158",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.28,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.278",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.44,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.338",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.05,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.459",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 1.47,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.578",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 1.52,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.639",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.5,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.759",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.87,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.938",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 2.34,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:40.939",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.86,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.119",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.62,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.177",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.24,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.298",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.02,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.360",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 2.73,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.479",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.66,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.600",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.1,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.659",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 3.88,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.781",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.97,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.897",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 2.94,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:41.959",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.82,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.080",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.15,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.200",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -2.78,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.260",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.86,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.379",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.67,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.438",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.48,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.618",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.82,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.678",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.8,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.738",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 2.59,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.859",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -3.59,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:42.978",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.14,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.100",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 1.37,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.160",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 1.5,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.279",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 3.23,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.400",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 1.11,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.458",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.23,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.581",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 1.41,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.700",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.12,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.879",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.1,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:43.880",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.07,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.001",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 1.55,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.118",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.49,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.240",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 2.71,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.301",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 3.47,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.418",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 3.69,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.479",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 1.38,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.597",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.04,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.720",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 1.17,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.838",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.2,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:44.899",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.27,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.020",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.57,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.141",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.66,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.198",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.89,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.319",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.82,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.379",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 1.32,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.559",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.26,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.618",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 2.38,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.680",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.77,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.799",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -0.47,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:45.920",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 2.43,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:46.099",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 0.57,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:46.100",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": 2.89,
+      "filter_type": "running_optimized"
+    },
+    {
+      "timestamp": "2025-07-29T15:49:46.217",
+      "Roll": 0.0,
+      "Pitch": 0.01,
+      "Yaw": -1.47,
+      "filter_type": "running_optimized"
+    }
+  ],
+  "Rev_3": [],
+  "Rev_4": []
+}
